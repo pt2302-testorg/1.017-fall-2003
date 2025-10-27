@@ -3,6 +3,7 @@ content_type: resource
 description: function cdffit(data,ndist,p1,p2); Supporting file for Problem set 4.
 draft: false
 file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/fe4ad46fba1b4dca73a0d5d53cdaddfa_cdffit.m
+file_size: 818
 file_type: text/plain
 image_metadata:
   caption: ''
