@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/pset4_cdffit.m
+file_size: 818
 file_type: text/x-objcsrc
 image_metadata:
   caption: ''

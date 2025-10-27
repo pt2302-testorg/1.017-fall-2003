@@ -2,6 +2,7 @@
 content_type: resource
 description: Solution to Problem Set 5, Problem 2
 file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/f126a7487a53d3a74587f41f2cbfb111_pset5_p2.m
+file_size: 417
 file_type: text/plain
 learning_resource_types:
 - Assignments

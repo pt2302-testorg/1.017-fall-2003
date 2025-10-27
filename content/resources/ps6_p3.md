@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting MATLAB program file for Problem set 6.
 file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/fad82d9e4b2261324d9979d0ebd2790c_ps6_p3.m
+file_size: 423
 file_type: text/plain
 learning_resource_types:
 - Assignments

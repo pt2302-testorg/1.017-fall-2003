@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file for lecture 3.
 file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/eaac9ce178c3033faefd299df6bcda17_virtual.m
+file_size: 920
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes

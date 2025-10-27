@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/816eeede1637930cb79554bf63a30731_MWRA1.txt
+file_size: 5218
 file_type: text/plain
 learning_resource_types:
 - Assignments

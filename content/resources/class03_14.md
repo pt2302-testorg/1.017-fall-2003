@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/9b6ec151dea248d0268529381d441d5c_class03_14.pdf
+file_size: 157210
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

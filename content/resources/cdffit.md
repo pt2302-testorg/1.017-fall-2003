@@ -3,6 +3,7 @@ content_type: resource
 description: 'Program to Compare Sample and Specified CDFs. This is a supporting file
   for Lecture #10.'
 file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/f83607138463198a0bea7bc6566bd6a6_cdffit.m
+file_size: 396
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes

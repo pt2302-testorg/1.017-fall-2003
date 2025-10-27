@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/ffe5c54241f3b53c7e876fc5bcb4a5da_quiz02_1.pdf
+file_size: 124661
 file_type: application/pdf
 learning_resource_types:
 - Exams

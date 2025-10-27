@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions are not included.
 file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/2d18e01839c0e2863c4db6a4180a6a80_quiz01_1.pdf
+file_size: 97731
 file_type: application/pdf
 learning_resource_types:
 - Exams

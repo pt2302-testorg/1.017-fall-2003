@@ -2,6 +2,7 @@
 content_type: resource
 description: Matlab program.
 file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/d7d0c4fc8b02775c1bbf53558a4f4f14_climate_plot.m
+file_size: 1407
 file_type: text/plain
 learning_resource_types:
 - Recitations

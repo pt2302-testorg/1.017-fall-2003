@@ -5,6 +5,7 @@ description: 'Function to Simulate Sampling from a Set of 20 Colored Balls. 8 re
 
   sample 3 balls without replacement. This is a supporting file for Lecture #5.'
 file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/cf9384a725f93134f04daa03cc7bb812_balls.m
+file_size: 1333
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes

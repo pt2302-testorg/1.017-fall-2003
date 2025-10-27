@@ -2,6 +2,7 @@
 content_type: resource
 description: Precipitation analysis in Boston.
 file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/0a03723e56a20dde1910b20d95559e1d_Boston_precip.txt
+file_size: 1234
 file_type: text/plain
 learning_resource_types:
 - Assignments

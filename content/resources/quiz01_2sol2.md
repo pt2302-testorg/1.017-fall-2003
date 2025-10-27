@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting solution file for Quiz2 2001.
 file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/6ea177f8ae4d776c5d7272b3863e5267_Quiz01_2sol.m
+file_size: 538
 file_type: text/plain
 learning_resource_types:
 - Exams
