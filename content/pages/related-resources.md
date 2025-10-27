@@ -1,6 +1,7 @@
 ---
 content_type: page
-description: ''
+description: This page includes helpful resources.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -10,17 +11,15 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 This section provides information on MATLAB®, the main software tool used in the course.
 
-Using MATLAB®
--------------
+## Using MATLAB®
 
 ### To run MATLAB® from a WINDOWS PC
 
 MATLAB® may be started from a shortcut or from the WINDOWS Start button. This will bring up the MATLAB® command/desktop window with the MATLAB® prompt >>.
 
-You can specify the path name that MATLAB® uses to search for program or data files in the **current directory** text box near the top of the command window. You can also save a set of path names that are routinely searched by selecting the **Set Path...** and then **Add Folder ...** from the **File** pulldown menu.
+You can specify the path name that MATLAB® uses to search for program or data files in the **current directory** text box near the top of the command window. You can also save a set of path names that are routinely searched by selecting the **Set Path…** and then **Add Folder …** from the **File** pulldown menu.
 
 ### Entering MATLAB® commands
 
@@ -44,8 +43,7 @@ You can run a script or function by typing the name of its file (without the .m 
 
 Depending on the display options you chose the results of the computations will be shown in the main MATLAB® window, plotted in a separate plot window, or written to another file.
 
-MATLAB® Resources
------------------
+## MATLAB® Resources
 
 The MATLAB® resources available to you both on-line and as hard copy are plentiful and easily accessible. The following links represent a brief summary of available MATLAB® documentation to get you started.
 
@@ -57,11 +55,11 @@ Typing **help \[command\]** at the MATLAB® prompt will give you a brief explana
 
 If you DON'T know what command you are confused about, typing **help** at the MATLAB® prompt will give you a list of categories. Then typing **help \[category\]** will produce a list of commands in \[category\]. For example, one of the categories is graphics. Typing **help graphics** produces a list of the MATLAB® graphics commands.
 
-[MATLAB® on Athena](http://web.mit.edu/matlab/www/): A web-document covering basic MATLAB® usage from Athena On-Line Help.
+[MATLAB® on Athena](http://kb.mit.edu/confluence/display/category/MATLAB+on+Athena): A web-document covering basic MATLAB® usage from Athena On-Line Help.
 
 [Inessential MATLAB®](http://www.mit.edu/afs/sipb/project/www/matlab/imatlab/imatlab.html): SIPB document of basic MATLAB® usage.?
 
-[MATLAB® at MIT Homepage](http://web.mit.edu/matlab/www/home.html): Information about MATLAB® from the Athena people. Contains a lot of logistical information as well as many useful links.?
+[MATLAB® at MIT](https://ist.mit.edu/mathworks/matlab): Information about MATLAB® from the Athena people. Contains a lot of logistical information as well as many useful links.?
 
 [Mathworks Homepage](http://www.mathworks.com/): The makers of MATLAB®. Information on acquiring Mathworks products plus links to documentation, etc.?
 
@@ -69,8 +67,7 @@ If you DON'T know what command you are confused about, typing **help** at the MA
 
 [Athena Minicourses](http://web.mit.edu/minidev/www/): Offered throughout the semester by the Athena Training Group. Basically a one hour short-course to get you started.
 
-Useful Links
-------------
+## Useful Links
 
 [Rice Virtual Lab in Statistics](http://www.ruf.rice.edu/~lane/rvls.html) — This is an excellent site that includes a virtual textbook, many useful links, and some animated demos. Compiled by a psychology professor who teaches statistics.
 
